@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nishant Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif">
+<img align="right" alt="Coding" width="400" src="[https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_191UnOfz2ilugR9IZ3YSXocGix6alqgp6A&s)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-jain17&label=Profile%20views&color=0e75b6&style=flat" alt="nishant-jain17" /> </p>
 
