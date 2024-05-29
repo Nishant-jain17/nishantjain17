@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/software-development-programming-language-coding-isometric-pc-computer-with-digital-application-white-background_284092-380.jpg)]
+![MasterHead](https://img.freepik.com/premium-vector/software-development-programming-language-coding-isometric-pc-computer-with-digital-application-white-background_284092-380.jpg)
 
 <h1 align="center">Hi 👋, I'm Nishant Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
